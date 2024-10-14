@@ -1,0 +1,36 @@
+{
+  "id": "001",
+  "name": "ChatGPT",
+  "version": "4.0",
+  "type": "AI Language Model",
+  "createdBy": "OpenAI",
+  "languageSupport": ["English", "French", "Spanish", "German", "Italian"],
+  "capabilities": {
+    "textGeneration": true,
+    "questionAnswering": true,
+    "conversation": true,
+    "summarization": true,
+    "translation": true
+  },
+  "availablePlatforms": ["Web", "Mobile", "API"],
+  "releaseDate": "2023-03-14",
+  "usageStats": {
+    "dailyUsers": 1000000,
+    "totalInteractions": 500000000
+  },
+  "features": [
+    "Natural language understanding",
+    "Contextual awareness",
+    "Multi-turn dialogue",
+    "Personalization"
+  ],
+  "limitations": [
+    "Cannot access real-time data",
+    "No memory of past interactions",
+    "Limited to training data until 2021"
+  ],
+  "contact": {
+    "email": "support@openai.com",
+    "website": "https://www.openai.com"
+  }
+}
